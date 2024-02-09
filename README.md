@@ -35,7 +35,7 @@ We welcome contributions from the community to help improve Dine Market. If you 
 
 ## Support
 
-If you encounter any problems while using Dine Market or have any questions, please don't hesitate to contact our support team at support@dine-market.com.
+If you encounter any problems while using Dine Market or have any questions, please don't hesitate to contact our support team at ahmadpr4410@gmail.com.
 
 Happy shopping and happy cooking with Dine Market!
 
