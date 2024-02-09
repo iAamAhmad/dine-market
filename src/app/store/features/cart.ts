@@ -1,4 +1,4 @@
-import { Cart } from "@/ultils/types";
+import { Cart } from "@/components/utills/types";
 import { createSlice } from "@reduxjs/toolkit";
 
 // Define the initial state using that type
