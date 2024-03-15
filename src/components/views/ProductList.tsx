@@ -48,7 +48,7 @@ export class ProductList extends Component {
         {
           breakpoint: 1300,
           settings: {
-            slidesToShow: 4,
+            slidesToShow: 5,
           },
         },
       ],
