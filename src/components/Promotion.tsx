@@ -13,6 +13,7 @@ const Promotion = () => {
         <p className='text-blue-800 text-sm font-bold'>PROMOTIONS</p>
         <h1 className='text-3xl text-gray-800 font-bold'>
           Our Promotions Events
+          {/* Our Promotions Events */}
         </h1>
       </div>
       <div className='flex flex-col lg:flex lg:flex-row gap-4 item-center justify-center'>

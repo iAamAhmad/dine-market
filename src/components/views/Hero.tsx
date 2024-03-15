@@ -3,7 +3,6 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import heroImg from "/public/heroImg.webp";
-import heroImage from "/public/heroImage";
 import Featured1 from "/public/Featured1.webp";
 import Featured2 from "/public/Featured2.webp";
 import Featured3 from "/public/Featured3.webp";
